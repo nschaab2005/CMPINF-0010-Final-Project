@@ -15,6 +15,6 @@ Description and links to the datasets used:
 3. Home value data set #1: The 2010 census data about homes in Pittsburgh.
    * https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/9890875b-c1d1-4e64-8fc9-a4a8dc433745/download/housing.csv
 4. Crime data set #1: The data set that records the location of crimes commited in Pittsburgh.
-  * https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+    * https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
 
